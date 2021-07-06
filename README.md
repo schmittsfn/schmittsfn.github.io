@@ -1,1 +1,2 @@
-# schmittsfn.github.io
+# schmittsfn.com
+[site](https://schmittsfn.com)
