@@ -29,15 +29,6 @@ github_username:  schmittsfn
 
 # Build settings
 theme: minima
-minima:
-  skin: dark
-  social_links:
-    twitter: schmittsfn
-    github: schmittsfn
-    stackoverflow: "1097106"
-    linkedin: schmittsfn
-  google_analytics: G-ZLSJZDPYL1
-
 plugins:
   - jekyll-feed
   - jekyll-sitemap
