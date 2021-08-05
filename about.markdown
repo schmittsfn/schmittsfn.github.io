@@ -4,15 +4,31 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Aside from doing programming work for companies I also enjoy experiencing other places on earth. I find it stimulating to immerse myself in what others live and experience every day; good or bad. It helps me grow.
 
 
-[jekyll-organization]: https://github.com/jekyll
+##### Areas of Engineering:
+```
+iOS, Backend
+```
+
+##### Fields:
+```
+Maps, Video Streaming, VR, Video Games
+```
+
+##### Some Technologies I have worked with:
+```
+Swift, Objc, Golang, Ruby, Python, C#, C++
+SwiftUI, Combine, CarPlay, tvOS, RoR, Django, Unity3D, Cocos2D
+Heroku, DigitalOcean, AWS, GoogleCloud
+Git
+```
+
+##### Tools:
+```
+Figma, Trello, Notion, Slack, Zoom, Amplitude
+Xcode, Jetbrains IDEs
+```
+
+**Very curious about blockchain based technologies**

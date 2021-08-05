@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![My helpful screenshot](/assets/images/grid_tree_green_multi.png)
