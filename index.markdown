@@ -4,4 +4,9 @@
 
 layout: home
 ---
-![My helpful screenshot](/assets/images/grid_tree_green_multi.png)
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><img align="left" width="100" height="100" src="/assets/images/grid_tree_green_multi.png"><code>
+  ░█▀▀░█▀▄░█░░░░█▀▄▀█░░▀░░▀█▀░▀█▀░█▀▀░█▀▀░█▀▀▄
+  ░▀▀▄░█░░░█▀▀█░█░▀░█░░█▀░░█░░░█░░▀▀▄░█▀░░█░▒█
+  ░▀▀▀░▀▀▀░▀░░▀░▀░░▒▀░▀▀▀░░▀░░░▀░░▀▀▀░▀░░░▀░░▀
+</code></pre></div></div>
+
