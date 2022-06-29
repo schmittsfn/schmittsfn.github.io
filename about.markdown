@@ -6,7 +6,7 @@ permalink: /about/
 
 Aside from doing programming work for companies I also enjoy experiencing other places on earth. I find it stimulating to immerse myself in what others live and experience every day; good or bad. It helps me grow.
 
-![stefan in the rain](/assets/images/stefan_in_the_rain.jpg)
+![stefan in the rain](/assets/images/stefan.jpg)
 
 ##### Areas of Engineering:
 ```
