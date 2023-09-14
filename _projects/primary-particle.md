@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Primary Particle
+title: Particle
 description: A cross-platform arcade puzzle game on iOS.
 img: assets/img/banner_primary_particle.jpg
 importance: 2

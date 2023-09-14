@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ph1lm
-description: Study into technological solutions to current problems in the film industry.
+description: Technology and the film industry; a study.
 img: assets/img/banner_ph1lm.jpg
 importance: 3
 category: pers
