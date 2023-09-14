@@ -13,5 +13,3 @@ category: pro
         <li><a href="https://apps.apple.com/us/app/urban-rivals/id329963928" target="_blank">iPad app</a></li>
     </ul>
 </div>
-<h5>Acute Games on Youtube</h5>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FcgYLXXpouQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
