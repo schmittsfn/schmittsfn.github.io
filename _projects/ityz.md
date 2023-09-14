@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ityz
-description: The Uber for traditional taxis in Paris.
+description: The Uber for traditional taxis in Paris
 importance: 7
 category: pro
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Olvid
-description: Private messaging<br>for everyone.
+description: Private messaging<br>for everyone
 importance: 1
 category: pro
 ---

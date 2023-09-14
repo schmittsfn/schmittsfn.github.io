@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zenlist
-description: Collaborative home buying on iOS and Android.
+description: Modernize the MLS<br>Experience
 importance: 2
 category: pro
 ---

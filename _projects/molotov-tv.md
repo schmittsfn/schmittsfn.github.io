@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Molotov TV
-description: Pioneered online TV streaming in collaboration with Apple.
+description: Nous allons vous faire adorer la télé !
 importance: 4
 category: pro
 ---

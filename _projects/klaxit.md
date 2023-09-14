@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Klaxit
-description: Modern ride sharing solution for commutes in France.
+description: L’application &#8203;#1 du covoiturage domicile-travail
 importance: 5
 category: pro
 ---

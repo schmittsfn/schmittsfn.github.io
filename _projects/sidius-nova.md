@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sidius Nova
-description: A sci-fi action strategy game on iOS with in-App Purchases.
+description: A sci-fi action strategy game on iOS with in-App purchases
 img: assets/img/banner_sidius_nova.jpg
 importance: 1
 category: pers

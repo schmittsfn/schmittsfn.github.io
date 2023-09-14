@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SpotAngels
-description: Solves parking using crowdsourcing methods.
+description: Join millions of drivers saving money on parking
 importance: 3
 category: pro
 ---
