@@ -2,7 +2,7 @@
 layout: page
 title: Acute Games
 description: Urban Rivals - One of the earliest sci-fi trading card games on iOS.
-importance: 5
+importance: 6
 category: pro
 ---
 <h5>Company <a href="https://www.urban-rivals.com/signup/" target="_blank">website</a></h5>

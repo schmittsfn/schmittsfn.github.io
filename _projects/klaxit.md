@@ -2,7 +2,7 @@
 layout: page
 title: Klaxit
 description: Modern ride sharing solution for commutes in France.
-importance: 4
+importance: 5
 category: pro
 ---
 <h5>Company <a href="https://www.klaxit.com" target="_blank">website</a></h5>

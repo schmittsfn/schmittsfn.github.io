@@ -2,7 +2,7 @@
 layout: page
 title: SpotAngels
 description: Solves parking using crowdsourcing methods.
-importance: 2
+importance: 3
 category: pro
 ---
 <h5>Company <a href="https://www.spotangels.com" target="_blank">website</a></h5>

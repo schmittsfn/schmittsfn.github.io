@@ -2,7 +2,7 @@
 layout: page
 title: Molotov TV
 description: Pioneered online TV streaming in collaboration with Apple.
-importance: 3
+importance: 4
 category: pro
 ---
 <h5>Company <a href="https://www.molotov.tv" target="_blank">website</a></h5>

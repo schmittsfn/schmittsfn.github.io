@@ -2,7 +2,7 @@
 layout: page
 title: Zenlist
 description: Collaborative home buying on iOS and Android.
-importance: 1
+importance: 2
 category: pro
 ---
 <h5>Company <a href="https://www.zenlist.com" target="_blank">website</a></h5>
