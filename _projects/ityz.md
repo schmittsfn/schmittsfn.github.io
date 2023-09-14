@@ -3,7 +3,7 @@ layout: page
 title: Ityz
 description: The Uber for traditional taxis in Paris
 importance: 7
-category: pro
+category: professional
 ---
 <h5>Company doesn't exist anymore as far as I know</h5>
 <h5>Products worked on</h5>

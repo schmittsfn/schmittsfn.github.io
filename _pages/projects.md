@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: experience
 permalink: /projects/
-description: some projects I did programming on
+description: some of my programming work
 nav: true
 nav_order: 3
-display_categories: [pro, pers]
+display_categories: [professional, personal projects]
 horizontal: false
 ---
 

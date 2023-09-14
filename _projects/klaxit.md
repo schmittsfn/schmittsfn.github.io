@@ -3,7 +3,7 @@ layout: page
 title: Klaxit
 description: L’application &#8203;#1 du covoiturage domicile-travail
 importance: 5
-category: pro
+category: professional
 ---
 <h5>Company <a href="https://www.klaxit.com" target="_blank">website</a></h5>
 <h5>Products worked on</h5>

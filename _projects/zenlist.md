@@ -3,7 +3,7 @@ layout: page
 title: Zenlist
 description: Modernize the MLS<br>Experience
 importance: 2
-category: pro
+category: professional
 ---
 <h5>Company <a href="https://www.zenlist.com" target="_blank">website</a></h5>
 <h5>Products worked on</h5>

@@ -3,7 +3,7 @@ layout: page
 title: Molotov TV
 description: Nous allons vous faire adorer la télé !
 importance: 4
-category: pro
+category: professional
 ---
 <h5>Company <a href="https://www.molotov.tv" target="_blank">website</a></h5>
 <h5>Products worked on</h5>

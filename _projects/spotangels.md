@@ -3,7 +3,7 @@ layout: page
 title: SpotAngels
 description: Join millions of drivers saving money on parking
 importance: 3
-category: pro
+category: professional
 ---
 <h5>Company <a href="https://www.spotangels.com" target="_blank">website</a></h5>
 <h5>Products worked on</h5>

@@ -3,7 +3,7 @@ layout: page
 title: Olvid
 description: Private messaging<br>for everyone
 importance: 1
-category: pro
+category: professional
 ---
 <h5>Company <a href="https://olvid.io/en/" target="_blank">website</a></h5>
 <h5>Products worked on</h5>

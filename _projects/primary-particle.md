@@ -4,7 +4,7 @@ title: Particle
 description: A cross-platform arcade puzzle game on iOS
 img: assets/img/banner_primary_particle.jpg
 importance: 2
-category: pers
+category: personal projects
 ---
 iPhone App on the <a href="https://apps.apple.com/us/app/primary-particle/id886683283?platform=iphone" target="_blank">App Store</a><br>
 And the <a href="https://apps.apple.com/us/app/primary-particle/id886683283?platform=ipad" target="_blank">iPad app</a>

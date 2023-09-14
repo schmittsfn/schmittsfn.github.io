@@ -3,7 +3,7 @@ layout: page
 title: Acute Games
 description: Urban Rivals - the massively multiplayer collectible card game
 importance: 6
-category: pro
+category: professional
 ---
 <h5>Company <a href="https://www.urban-rivals.com/signup/" target="_blank">website</a></h5>
 <h5>Products worked on</h5>
