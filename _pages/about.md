@@ -6,7 +6,7 @@ subtitle: "10+ years writing software"
 
 profile:
   align: right
-  image: avatar.png
+  image: casual_01.jpg
   # image_light: avatar-light.png
   image_circular: false # crops the image to make it circular
   image_light_circular: false
