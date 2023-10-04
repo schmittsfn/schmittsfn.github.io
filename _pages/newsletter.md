@@ -6,31 +6,6 @@ description: subscribe for updates about AI, CS, and programming related topics 
 nav: true
 nav_order: 2
 ---
-<!-- <div id="mc_embed_shell">
-    <div id="mc_embed_signup">
-        <form action="https://schmittsfn.us12.list-manage.com/subscribe/post?u=79dcf91c4d908dfcd6737caca&amp;id=4e84f21a4b&amp;f_id=002a45e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-            <div id="mc_embed_signup_scroll">
-                <div class="mc-field-group">
-                    <label for="mce-EMAIL">Email Address</label><br>
-                    <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="">
-                </div>
-            </div>
-            <div id="mce-responses" class="clear foot">
-                <div class="response" id="mce-error-response" style="display: none;"></div>
-                <div class="response" id="mce-success-response" style="display: none;"></div>
-            </div>
-            <div aria-hidden="true" style="position: absolute; left: -5000px;">
-                /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
-                <input type="text" name="b_79dcf91c4d908dfcd6737caca_4e84f21a4b" tabindex="-1" value="">
-            </div>
-            <div class="optionalParent">
-                <div class="clear foot">
-                    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
-                </div>
-            </div>
-        </form>
-    </div>
-</div> -->
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
