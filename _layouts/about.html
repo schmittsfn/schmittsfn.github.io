@@ -8,7 +8,7 @@ layout: default
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc hidden-dark">{{ page.subtitle }}</p>
+          <p class="desc hidden-dark"> <a id="years_d" href="https://www.linkedin.com/in/schmittsfn" target="_blank"> 10+</a> yrs writing software</p>
           <p class="desc hidden-light" id="years_"> <a id="years_b" href="">> 0b1010</a><a id="years_h" href="">> 0xA</a> yrs writing software</p>
         </header>
 
@@ -107,6 +107,7 @@ layout: default
 </style>
 <script type="text/javascript">
   const yrs = Number(new Date().getFullYear() - 2011);
+  document.getElementById('years_d').innerHTML = yrs;
   document.getElementById('years_b').innerHTML = "0b" + yrs.toString(2);
   document.getElementById('years_h').innerHTML = "0x" + yrs.toString(16);
 </script>

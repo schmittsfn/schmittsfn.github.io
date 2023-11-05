@@ -23,37 +23,45 @@ social: true  # includes social icons at the bottom of the page
 <div class="highlight">
 <pre class="highlight">
 <code>
-░█▀▀░█▀▄░█░░░░█▀▄▀█░░▀░░▀█▀░▀█▀░█▀▀░█▀▀░█▀▀▄
-░▀▀▄░█░░░█▀▀█░█░▀░█░░█▀░░█░░░█░░▀▀▄░█▀░░█░▒█
-░▀▀▀░▀▀▀░▀░░▀░▀░░▒▀░▀▀▀░░▀░░░▀░░▀▀▀░▀░░░▀░░▀
+█▀ █▀▀ █▄░█   █▀▀ █▀█ █▄░█ █▀ █░█ █░░ ▀█▀ █ █▄░█ █▀▀
+▄█ █▀░ █░▀█   █▄▄ █▄█ █░▀█ ▄█ █▄█ █▄▄ ░█░ █ █░▀█ █▄█
 </code>
 </pre>
 </div>
 </div>
-France-based but lived and worked in the US, UK, Australia and New Zealand.
-Programming is something I really enjoy -- mainly C-based and compiled languages.
+Crafting Innovative Solutions in Programming and iOS Development Across Continents and for the precision-demanding Swiss market
 
-##### Areas of Engineering:
+### Premier Toolkit for Apple Engineering
+##### Programming Languages:
 ```
-iOS (with Backend)
-```
-
-##### Fields:
-```
-Graphics, Video Streaming, VR, Video Games, Maps
+∙ Swift
+∙ Objective-C
+∙ C++
 ```
 
-##### Some Technologies I have worked with:
+##### Core Technologies:
 ```
-Swift, Objective-C, C++, C#, TypeScript
-Golang, Ruby, Python, Java, SQL, GLSL
-SwiftUI, Combine, CarPlay, tvOS, RoR, Django, Unity3D, React Native
-Heroku, DigitalOcean, AWS Amplify, AWS S3
-Git
+∙ SwiftUI
+∙ Combine
+∙ CarPlay
+∙ tvOS
+∙ Core Data
+∙ Core Graphics
 ```
 
-##### Tools:
+##### Cloud & Backend:
 ```
-Figma, Jira, Amplitude, Trello, Notion, Slack, Zoom
-VSCode, Xcode, Jetbrains IDEs
+∙ Firebase
+∙ AWS
+∙ Heroku
+∙ DigitalOcean
+```
+
+##### Design & Collaboration:
+```
+∙ Figma
+∙ Jira
+∙ Trello
+∙ Notion
+∙ Slack
 ```
