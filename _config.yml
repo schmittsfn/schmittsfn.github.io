@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: SFN Consulting # the website title (if blank, full name will be used instead)
+title: SFN.Consulting # Software, Frameworks & Namespaces
 first_name: Stefan
 middle_name: #R.
 last_name: Schmitt
@@ -110,9 +110,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: schmittsfn # blog_name will be displayed in your blog page
+blog_name: SFN.Consulting # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: thoughts & programming
+blog_description: thoughts & programming 
 permalink: /blog/:year/:title/
 
 # Pagination
