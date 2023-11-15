@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Swift Default styles
-description: for UITableViews
+title:  Default UITableView styles
+description: in Swift
 tags: swift UIKit UITableView style ios
 categories: swift
 ---
